@@ -35,4 +35,4 @@ Each column provides specific information about the patient, their admission, an
 13. Discharge Date: The date on which the patient was discharged from the healthcare facility, based on the admission date and a random number of days within a realistic range.
 14. Medication: Identifies a medication prescribed or administered to the patient during their admission. Examples include "Aspirin," "Ibuprofen," "Penicillin," "Paracetamol," and "Lipitor."
 15. Test Results: Describes the results of a medical test conducted during the patient's admission. Possible values include "Normal," "Abnormal," or "Inconclusive," indicating the outcome of the test.
-SQL-Data-Analysis-Healthcare-Project/README.md at main · SPARTANX21/SQL-Data-Analysis-Healthcare-Project 
+
